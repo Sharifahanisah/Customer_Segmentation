@@ -4,9 +4,10 @@
  	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
  	![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   
-
+# The project's aim
+ To develop a deep learning model to predict the outcome of the campaign
  
-# CREDITS TO
+# Credits To
 HackerEarth HackLive: Customer Segmentation : https://www.kaggle.com/datasets/kunalgupta2616/hackerearth-customer-segmentation-hackathon
 
 
